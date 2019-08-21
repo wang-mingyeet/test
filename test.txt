@@ -1,3 +1,6 @@
 Test file
 This is a solution from hotfix
 -myw
+
+
+Another edit by hotfix2
